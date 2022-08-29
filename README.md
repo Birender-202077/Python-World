@@ -8,8 +8,8 @@ In this repository, I have added programs which I have done using Python Program
 <b align="center" style="font-weight:300; font-size:40px;"> Name of programs</b><br>
 <br>
 <p>
-       <strong>1.</strong>Unique Palidrome Problem
+       <strong>1.</strong> Unique Palidrome Problem
 </p>
 <p>
-        <strong>2.</strong>Write a program to return all palindrome from the given string of length 3. ( O(n!) complexity considered.)
+        <strong>2.</strong> Write a program to return all palindrome from the given string of length 3. ( O(n!) complexity considered.)
 </p>
