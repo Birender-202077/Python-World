@@ -5,4 +5,4 @@
 <p style="text-align:center;">
 In this repository, I have added programs which I have done using Python Programming.
 </p><br>
-<b>Name of programs</b>
+<b style="font-size: 100px;">Name of programs</b>
