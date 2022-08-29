@@ -1,1 +1,1 @@
-<img src="https://imgs.search.brave.com/9-21_Z0xO-ELNSL3iWT93kWO5nMsM3rCvP_bPDKYW_8/rs:fit:891:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5H/NEcyR3Uxc09vV1Jq/UjVpY1poektBSGFE/OCZwaWQ9QXBp" alt="python" border="0" width=100%>
+<img src="https://imgs.search.brave.com/Cw6qf9Mx302Bu1gKw7eyEMG-gW6-f9qDuk42hRGELbg/rs:fit:928:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5S/YWRWWUNuaFVVbGxi/dExYc0ZoTHdRSGFE/eSZwaWQ9QXBp" alt="python" border="0" width=100%>
