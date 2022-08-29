@@ -6,3 +6,9 @@
 In this repository, I have added programs which I have done using Python Programming.
 </p><br>
 <b align="center" style="font-weight:300; font-size:40px;"> Name of programs</b>
+<p>
+       <b>1.</b>Unique Palidrome Problem
+</p>
+<p>
+        <b>2.</b>Write a program to return all palindrome from the given string of length 3. ( O(n!) complexity considered.)
+</p>
